@@ -1,0 +1,36 @@
+.login__button {
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px 30px 0 30px;
+}
+
+.nav__section {
+  display: flex;
+  justify-content: center;
+}
+
+.menu__area {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+
+.menu__list {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  margin: auto;
+  padding-left: 170px;
+}
+
+.menu__search {
+  border-bottom: 1px solid black;
+  margin-right: 30px;
+}
+
+.menu__search input {
+  border: none;
+  outline: none;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
